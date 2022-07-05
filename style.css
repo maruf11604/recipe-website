@@ -38,6 +38,8 @@ body {
 .intro-sec p {
     font-weight: 500;
     font-size: 19px;
+    margin-bottom: 50px;
+    color: #707070;
 }
 
 .font-cls {
@@ -51,4 +53,39 @@ body {
     background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
     color: white;
     border-radius: 100px;
+}
+
+.about-sec {
+    display: flex;
+}
+
+.decs-sec {
+    width: 50%;
+
+}
+
+.decs-sec img {
+    width: cover;
+    height: 600px;
+    padding-left: 25%;
+    padding-top: 10%;
+}
+
+.decs-sec p {
+    padding-right: 51%;
+
+
+}
+
+.decs-sec h2 {
+    color: #707070;
+}
+
+.pdd {
+    padding-top: 11%;
+}
+
+.about-sec {
+    background-image: url("images/shapes/Frame\ 57.jpg");
+    background-repeat: no-repeat;
 }
