@@ -164,6 +164,7 @@ body {
     padding: 20px;
     border-radius: 30px;
     margin-top: 8%;
+    margin-bottom: 8%;
 
 }
 
@@ -172,9 +173,26 @@ body {
     justify-content: center;
     align-items: center;
     background: #E5E5E5;
+
 }
 
 .counter p {
     font-size: 14px;
     color: #b4b0b0;
+}
+
+.gra-col {
+    color: #5B5B5B;
+}
+
+footer {
+    text-align: center;
+    background-color: #18191F;
+    height: 100%;
+    padding: 20px;
+}
+
+footer p {
+    color: #cecdcd;
+    font-size: 8px;
 }
