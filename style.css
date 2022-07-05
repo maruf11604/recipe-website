@@ -1,0 +1,54 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.font-cls h1 {
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.font-cls {
+    width: 30%;
+}
+
+.cover-half {
+    width: 70%;
+    padding-left: 5%;
+}
+
+.cover-half img {
+    width: 792px;
+    height: 843.96px;
+
+
+
+}
+
+.org-col {
+    color: orange;
+}
+
+.intro-sec {
+    display: flex;
+    background: #E5E5E5;
+}
+
+.intro-sec p {
+    font-weight: 500;
+    font-size: 19px;
+}
+
+.font-cls {
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+.or-buttn {
+    padding: 16px 30px;
+    text-decoration: none;
+    background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+    color: white;
+    border-radius: 100px;
+}
